@@ -2,6 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+##LIVE URL OF MOVIES TRAILER APP
+Open [https://movie-trailer-react-app.pages.dev/](https://movie-trailer-react-app.pages.dev/) to view it in your browser.
+
 ## Available Scripts
 
 In the project directory, you can run:
